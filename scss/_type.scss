@@ -1,20 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway+Dots');
+
 body {
   font-size: 16px;
-  font-family: font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: $text;
-  margin: 0;
+  margin-left: 20px;
   padding: 0;
 }
 
 h1 {
   font-family: 'Raleway Dots', cursive;
-  margin: 20px;
-  font-size: 50px;
+  font-size: 80px;
+  color: #C4E7D4;
+  padding: 10px;
 
 }
 
 h2 {
+  font-family: 'Raleway', sans-serif;
+  color: #B9C0DA;
+  font-size: 30px;
 
+}
+
+h3 {
+  font-size: 20px;
+  color: #B9C0DA;
+  padding-top: 40px;
 }
 
 p {
